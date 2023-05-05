@@ -4,4 +4,4 @@
 - 🔭 Atualmente trabalho como Aprendiz de TI
 - 🌱 Estudando React Js
 - 😄 Pronouns: Ele/Dele
-- 
+
