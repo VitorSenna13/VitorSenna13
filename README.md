@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente trabalho como Aprendiz de TI
 - 🌱 Estudando JavaScript
-- 😄 Pronouns: Ele/Dele
+- 😄 Pronome: Ele/Dele
 
 
 <div>
